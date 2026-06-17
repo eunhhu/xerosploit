@@ -40,7 +40,7 @@ Tested on
 
 <table>
     <tr>
-        <th>Operative system</th>
+        <th>Operating system</th>
         <th> Version </th>
     </tr>
     <tr>
@@ -59,16 +59,16 @@ Tested on
 
 
 
-features 
+Features 
 =
 - Port scanning
 - Network mapping
-- Dos attack
-- Html code injection
+- DoS attack
+- HTML code injection
 - Javascript code injection
 - Download intercaption and replacement
 - Sniffing
-- Dns spoofing
+- DNS spoofing
 - Background audio reproduction
 - Images replacement
 - Drifnet
