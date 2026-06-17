@@ -26,7 +26,7 @@ Dependencies
 
 
 
-Instalation
+Installation
 =
 Dependencies will be automatically installed.
 
